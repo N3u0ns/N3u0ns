@@ -1,13 +1,18 @@
+<p align="center">
+  <img src="./assets/mambo-terminal.png" alt="Mambo in the terminal" width="100%" />
+</p>
+
 # N3ur0ns
 
-I build systems that make AI claims measurable.
+> 没有啥大能耐，也无法忍受失败。  
+> No grand talent. No tolerance for failure.
+>
+> 杀死人的从来不是挫折，而是期待。  
+> It is never setbacks that kill you, but expectation.
 
-Currently working on:
+Mambo in the shell. Evidence in the logs.
 
 - **SPEAR-Infer** - evidence-first tooling for LLM inference performance.
 - **Empirical Wizard** - private AI product for empirical research automation.
 
-I like deterministic cores, clean interfaces, traceable evidence, and systems
-that fail honestly.
-
-Working around SGLang, vLLM, PyTorch, C++, Python, and research/data pipelines.
+C++ / Python / SGLang / vLLM / PyTorch
