@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://th.bing.com/th/id/OIP.bHnqESO9_hnASghxOpscmQHaGW?w=214&amp;h=184&amp;c=7&amp;r=0&amp;o=7&amp;dpr=1.3&amp;pid=1.7&amp;rm=3" alt="Mambo" />
+  <img src="./assets/mambo.webp" alt="Mambo" width="220" />
 </p>
 
 # N3ur0ns
