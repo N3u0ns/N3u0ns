@@ -46,9 +46,9 @@ Status: private product development.
 
 I follow and build around:
 
-`SGLang` | `vLLM` | `PyTorch` | `Transformers` | `NumPy` | `Pandas`
+`SGLang` | `vLLM` | `PyTorch`
 
 ## Tech
 
-Python | TypeScript/JavaScript | Flask | Pydantic | Typer | pytest | Docker |
-Stata/R/Python data pipelines
+Python | C++ | TypeScript/JavaScript | Flask | Pydantic | Typer | pytest |
+Docker | Stata/R/Python data pipelines
